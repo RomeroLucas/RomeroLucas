@@ -23,6 +23,15 @@ Em busca de um bom companheiro de xadrez ♟.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-romero-8a42098b/)](https://www.linkedin.com/in/lucas-romero-8a42098b/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lukonline/)](https://www.instagram.com/lukonline/)
 
+## Link para os projetos destacados
+### Fakebok
+Link: https://romerolucas.github.io/Fakebook/
+
+### TMDB
+Link: https://romerolucas.github.io/TMDB/
+
+### React-portifólio
+Link: https://romerolucas.github.io/react-portifolio/
 
 <!--
 **RomeroLucas/RomeroLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
